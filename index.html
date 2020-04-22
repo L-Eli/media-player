@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Online Audio Player</title>
+</head>
+<body>
+<div class="player">
+    <div class="main-container">
+        <nav class="nav">
+            <div class="nav-header">
+                <a href="#" class="logo">
+                    <img src="img/logo.png">
+                </a>
+            </div>
+            <div class="nav-body">
+                <input id="search" placeholder="Start typing...">
+                <ul class="nav-menu">
+                    <li class="active" data-group="album">Albums</li>
+                    <li data-group="song">Songs</li>
+                    <li data-group="my-play-list">My Play List</li>
+                </ul>
+            </div>
+        </nav>
+        <div class="main-content">
+            <section class="main-page">
+                <nav class="list-group">
+                    <li class="list-group-item active" data-group="album" data-title="MY ALBUMS" data-color="#333366">Albums</li>
+                    <li class="list-group-item" data-group="song" data-title="MY SONGS" data-color="#663333">Songs</li>
+                    <li class="list-group-item" data-group="my-play-list" data-title="MY PLAY LIST" data-color="#666633">My Play List</li>
+                </nav>
+                <h2 id="pageTitle">MY ALBUMS</h2>
+                <article class="main-group album-group"></article>
+                <article class="main-group song-group">
+                    <table>
+                        <thead>
+                        <tr>
+                            <th></th>
+                            <th>Name</th>
+                            <th>Album</th>
+                            <th>Duration</th>
+                        </tr>
+                        </thead>
+                        <tbody id="songsList"></tbody>
+                    </table>
+                </article>
+                <article class="main-group my-play-list-group">
+                    <table>
+                        <thead>
+                        <tr>
+                            <th></th>
+                            <th>#</th>
+                            <th>Name</th>
+                            <th>Album</th>
+                            <th>Duration</th>
+                        </tr>
+                        </thead>
+                        <tbody id="playList"></tbody>
+                    </table>
+                    <button id="btnPlayList">PLAY</button>
+                </article>
+            </section>
+            <section class="album-page">
+                <article class="album-wrapper">
+                    <header class="album-header">
+                        <div class="album-cover">
+                            <img id="albumCover" alt="">
+                        </div>
+                        <h2 class="album-title" id="albumTitle"></h2>
+                        <div class="album-info">
+                            <p>
+                                <span id="albumArtists"></span> | <span id="albumPublishedDate"></span>
+                            </p>
+                            <button id="btnPlayAlbum">PLAY</button>
+                            <p class="album-songs-number">
+                                <span id="albumSongsNumber"></span> SONGS | <span id="albumDuration"></span>
+                            </p>
+                            <p id="albumDescription"></p>
+                        </div>
+                    </header>
+                    <div class="album-songs">
+                        <table>
+                            <tbody id="albumSongs"></tbody>
+                        </table>
+                    </div>
+                </article>
+            </section>
+        </div>
+    </div>
+    <footer class="play-container">
+        <div class="play-info-wrapper">
+            <div class="play-info-group">
+                <img id="songCover">
+                <div>
+                    <p id="songName"></p>
+                    <p id="songAuthor"></p>
+                </div>
+            </div>
+        </div>
+        <div class="play-control-wrapper">
+            <div class="play-control-group">
+                <button id="btnPrev">
+                    <img src="img/prev-icon.png">
+                </button>
+                <button id="btnPlayOrPause">
+                    <img class="play-icon" src="img/play-icon-2.png">
+                    <img class="pause-icon" src="img/pause-icon.png" hidden>
+                </button>
+                <button id="btnNext">
+                    <img src="img/next-icon.png">
+                </button>
+            </div>
+            <div class="play-track">
+                <span id="playCurrentTime">00:00</span>
+                <input id="playRange" type="range" min="0" value="0">
+                <span id="playDuration">00:00</span>
+            </div>
+            <div class="play-sound">
+
+            </div>
+        </div>
+    </footer>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

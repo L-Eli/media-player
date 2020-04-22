@@ -1,0 +1,530 @@
+{
+    "count": 5,
+    "start": 0,
+    "total": 245,
+    "albums": [
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.3",
+                "numRaters": 36145,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Lady Gaga"
+                }
+            ],
+            "tags": [
+                {
+                    "count": 6131,
+                    "name": "LadyGaga"
+                },
+                {
+                    "count": 2351,
+                    "name": "POP"
+                },
+                {
+                    "count": 1030,
+                    "name": "Electronic"
+                },
+                {
+                    "count": 1026,
+                    "name": "dance"
+                },
+                {
+                    "count": 833,
+                    "name": "2008"
+                },
+                {
+                    "count": 563,
+                    "name": "GaGa"
+                }
+            ],
+            "attrs": {
+                "publisher": [
+                    "Interscope"
+                ],
+                "singer": [
+                    "Lady Gaga"
+                ],
+                "version": [
+                    "Import"
+                ],
+                "pubdate": [
+                    "2008-08-19"
+                ],
+                "title": [
+                    "The Fame"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    {
+                        "name": "01 Just Dance (feat. Colby O'Donis)",
+                        "duration": "4:02"
+                    },
+                    {
+                        "name": "02 LoveGame",
+                        "duration": "3:36"
+                    },
+                    {
+                        "name": "03 Paparazzi",
+                        "duration": "3:28"
+                    },
+                    {
+                        "name": "04 Poker Face",
+                        "duration": "3:57"
+                    },
+                    {
+                        "name": "05 Eh, Eh (Nothing Else I Can Say)",
+                        "duration": "2:55"
+                    },
+                    {
+                        "name": "06 Beautiful, Dirty, Rich",
+                        "duration": "2:52"
+                    },
+                    {
+                        "name": "07 The Fame",
+                        "duration": "3:42"
+                    },
+                    {
+                        "name": "08 Money Honey",
+                        "duration": "2:50"
+                    },
+                    {
+                        "name": "09 Starstruck (feat. Space Cowboy & Flo Rida)",
+                        "duration": "3:37"
+                    },
+                    {
+                        "name": "10 Boys Boys Boys",
+                        "duration": "3:21"
+                    },
+                    {
+                        "name": "11 Paper Gangsta",
+                        "duration": "4:23"
+                    },
+                    {
+                        "name": "12 Brown Eyes",
+                        "duration": "4:03"
+                    },
+                    {
+                        "name": "13 I Like It Rough",
+                        "duration": "3:22"
+                    },
+                    {
+                        "name": "14 Summerboy",
+                        "duration": "4:14"
+                    },
+                    {
+                        "name": "15 Disco Heaven",
+                        "duration": "3:41"
+                    }
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "The Fame",
+            "description": "The Fame is the debut studio album by American singer Lady Gaga. It was released on August 19, 2008 by Interscope Records. After joining Kon Live Distribution and Cherrytree Records in 2008, Gaga began working on the album with different producers, primarily RedOne, Martin Kierszenbaum, and Rob Fusari. Musically, The Fame is an electropop, synth-pop, and dance-pop album that displays influences from 1980s music."
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.7",
+                "numRaters": 86233,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Coldplay"
+                }
+            ],
+            "alt_title": "Death And All His Friends",
+            "tags": [
+                {
+                    "count": 22237,
+                    "name": "Coldplay"
+                },
+                {
+                    "count": 5786,
+                    "name": "Brit-Pop"
+                },
+                {
+                    "count": 3283,
+                    "name": "rock"
+                },
+                {
+                    "count": 2245,
+                    "name": "2008"
+                },
+                {
+                    "count": 2218,
+                    "name": "britpop"
+                }
+            ],
+            "attrs": {
+                "publisher": [
+                    "Capitol"
+                ],
+                "singer": [
+                    "Coldplay"
+                ],
+                "version": [
+                    "Album"
+                ],
+                "pubdate": [
+                    "2008-06-17"
+                ],
+                "title": [
+                    "Viva La Vida"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    {
+                        "name": "01 Life in Technicolor",
+                        "duration": "2:29"
+                    },
+                    {
+                        "name": "02 Cemeteries of London",
+                        "duration": "3:21"
+                    },
+                    {
+                        "name": "03 Lost!",
+                        "duration": "3:35"
+                    },
+                    {
+                        "name": "04 42",
+                        "duration": "3:57"
+                    },
+                    {
+                        "name": "05 Lovers in Japan _ Reign of Love",
+                        "duration": "6:51"
+                    },
+                    {
+                        "name": "06 Yes",
+                        "duration": "7:07"
+                    },
+                    {
+                        "name": "07 Viva La Vida",
+                        "duration": "4:01"
+                    },
+                    {
+                        "name": "08 Violet Hill",
+                        "duration": "3:43"
+                    },
+                    {
+                        "name": "09 Strawberry Swing",
+                        "duration": "4:10"
+                    },
+                    {
+                        "name": "10 Death and All His Friends",
+                        "duration": "6:19"
+                    }
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Viva La Vida",
+            "description": "\"Viva la Vida\" (/ˈviːvə lə ˈviːdə/; Spanish: [ˈbiβa la ˈβiða]) is a song by British rock band Coldplay. It was written by all members of the band for their fourth album, Viva la Vida or Death and All His Friends (2008), and was released as the second single from the album. On the album, this song segues directly into the next track, \"Violet Hill\". Viva la Vida is Spanish for \"Long Live Life\" or simply \"Live Life\"."
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.0",
+                "numRaters": 51547,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Adele"
+                }
+            ],
+            "alt_title": "",
+            "tags": [
+                {
+                    "count": 16777215,
+                    "name": "soul"
+                },
+                {
+                    "count": 16777215,
+                    "name": "POP"
+                },
+                {
+                    "count": 16777215,
+                    "name": "JAZZ"
+                },
+                {
+                    "count": 9114,
+                    "name": "adele"
+                },
+                {
+                    "count": 5143,
+                    "name": "Adele"
+                },
+                {
+                    "count": 2902,
+                    "name": "Soul"
+                }
+            ],
+            "attrs": {
+                "publisher": [
+                    "XL Recordings"
+                ],
+                "singer": [
+                    "Adele"
+                ],
+                "pubdate": [
+                    "2011-02-01"
+                ],
+                "title": [
+                    "21"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    {
+                        "name": "01 Rolling in the Deep",
+                        "duration": "3:48"
+                    },
+                    {
+                        "name": "02 Rumour Has It",
+                        "duration": "3:43"
+                    },
+                    {
+                        "name": "03 Turning Tables",
+                        "duration": "4:10"
+                    },
+                    {
+                        "name": "04 Don’t You Remember",
+                        "duration": "4:03"
+                    },
+                    {
+                        "name": "05 Set the Fire to Rain",
+                        "duration": "4:03"
+                    },
+                    {
+                        "name": "06 He Won’t Go",
+                        "duration": "4:38"
+                    },
+                    {
+                        "name": "07 Take It All",
+                        "duration": "3:48"
+                    },
+                    {
+                        "name": "08 I’ll Be Waiting",
+                        "duration": "4:01"
+                    },
+                    {
+                        "name": "09 One and Only",
+                        "duration": "5:48"
+                    },
+                    {
+                        "name": "10 Lovesong",
+                        "duration": "5:16"
+                    },
+                    {
+                        "name": "11 Someone Like You",
+                        "duration": "4:45"
+                    },
+                    {
+                        "name": "12 I Found a Boy (Bonus Track)",
+                        "duration": "3:37"
+                    }
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "21",
+            "description": "21 is the second studio album by English singer-songwriter Adele. It was released on 24 January 2011[1] in Europe and on 22 February 2011 in North America by XL Recordings and Columbia Records. The album was named after the age of the singer during its production. 21 shares the folk and Motown soul influences of her 2008 debut album 19, but was further inspired by the American country and Southern blues music to which she had been exposed during her 2008–09 North American tour An Evening with Adele. Composed in the aftermath of the singer's separation from her partner, the album typifies the near dormant tradition of the confessional singer-songwriter in its exploration of heartbreak, self-examination, and forgiveness."
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.3",
+                "numRaters": 24026,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Coldplay"
+                }
+            ],
+            "alt_title": "Yellow",
+            "tags": [
+                {
+                    "count": 4460,
+                    "name": "coldplay"
+                },
+                {
+                    "count": 1714,
+                    "name": "yellow"
+                },
+                {
+                    "count": 1047,
+                    "name": "Brit-pop"
+                },
+                {
+                    "count": 945,
+                    "name": "Coldplay"
+                }
+            ],
+            "attrs": {
+                "publisher": [
+                    "EMI Int'l"
+                ],
+                "singer": [
+                    "Coldplay"
+                ],
+                "version": [
+                    "EP"
+                ],
+                "pubdate": [
+                    "2000-07-03"
+                ],
+                "title": [
+                    "Yellow"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    {
+                        "name": "01 Yellow",
+                        "duration": "4:27"
+                    },
+                    {
+                        "name": "02 Help is Round the Corner",
+                        "duration": "2:36"
+                    },
+                    {
+                        "name": "03 No More Keeping My Feet On The Ground",
+                        "duration": "4:31"
+                    }
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Yellow",
+            "description": "\"Yellow\" is a song by the British rock band Coldplay. The band wrote the song and co-produced it with British record producer Ken Nelson for their debut album, Parachutes (2000)."
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.7",
+                "numRaters": 13266,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Bruno Mars"
+                }
+            ],
+            "alt_title": "",
+            "tags": [
+                {
+                    "count": 3122,
+                    "name": "BrunoMars"
+                },
+                {
+                    "count": 1612,
+                    "name": "Pop"
+                },
+                {
+                    "count": 1212,
+                    "name": "R&B"
+                },
+                {
+                    "count": 620,
+                    "name": "2010"
+                },
+                {
+                    "count": 263,
+                    "name": "Doo-Woops"
+                }
+            ],
+            "attrs": {
+                "publisher": [
+                    "New Elektra"
+                ],
+                "singer": [
+                    "Bruno Mars"
+                ],
+                "version": [
+                    "Album"
+                ],
+                "pubdate": [
+                    "2010-10-05"
+                ],
+                "title": [
+                    "Doo-Wops & Hooligans"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    {
+                        "name": "01 Grenade",
+                        "duration": "3:42"
+                    },
+                    {
+                        "name": "02 Just The Way You Are",
+                        "duration": "3:41"
+                    },
+                    {
+                        "name": "03 Our First Time",
+                        "duration": "4:03"
+                    },
+                    {
+                        "name": "04 Runaway Baby",
+                        "duration": "2:28"
+                    },
+                    {
+                        "name": "05 The Lazy Song",
+                        "duration": "3:09"
+                    },
+                    {
+                        "name": "06 Marry You",
+                        "duration": "3:50"
+                    },
+                    {
+                        "name": "07 Talking To The Moon",
+                        "duration": "3:38"
+                    },
+                    {
+                        "name": "08 Liquor Store Blues (feat. Damian Marley)",
+                        "duration": "3:49"
+                    },
+                    {
+                        "name": "09 Count On Me",
+                        "duration": "3:17"
+                    },
+                    {
+                        "name": "10 The Other Side (feat. CeeLo Green & B.o.B)",
+                        "duration": "3:48"
+                    },
+                    {
+                        "name": "11 Somewhere In Brooklyn",
+                        "duration": "3:02"
+                    },
+                    {
+                        "name": "12 Talking To the Moon (Acoustic Piano Version)",
+                        "duration": "3:38"
+                    }
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Doo-Wops & Hooligans",
+            "description": "Doo-Wops & Hooligans is the debut studio album by American singer-songwriter Bruno Mars, which was released on October 4, 2010 by Atlantic and Elektra Records. After the release of the EP It's Better If You Don't Understand (2010)"
+        }
+    ]
+}
